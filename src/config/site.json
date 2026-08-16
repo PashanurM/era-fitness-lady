@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "Era Fitness Lady",
+    "shortName": "Era Fitness",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#1c140e",
+    "bgElevated": "#261e18",
+    "surface": "#2f2520",
+    "surface2": "#3e312b",
+    "text": "#f2f4f3",
+    "muted": "#a19692",
+    "accent": "#bc6424",
+    "accent2": "#de945e",
+    "logoBg": "#363e4a"
+  },
+  "layout": {
+    "headerLogoBg": true,
+    "footerLogoBg": true
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": false,
+    "trainers": true,
+    "services": true,
+    "tools": false,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
